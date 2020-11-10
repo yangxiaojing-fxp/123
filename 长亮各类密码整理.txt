@@ -1,14 +1,14 @@
  Confluence:
 
-���ã�
+您好：
 
-                 Confluence�ĵ������������ѿ������ã�
-                 1����������ַΪ��10.30.200.109:8090
-                       �û���yangxiaojing
-                       ���룺yangxiaojing
-                 2��ʹ��ָ������������ο� https://blog.csdn.net/u011456337/article/details/103084838 
+                 Confluence文档服务器，现已可以试用：
+                 1、服务器地址为：10.30.200.109:8090
+                       用户：yangxiaojing
+                       密码：yangxiaojing
+                 2、使用指引见附件，或参考 https://blog.csdn.net/u011456337/article/details/103084838 
 
-                 ��鿴Ȩ���Ƿ���ȷ���ռ�->�ռ�Ŀ¼->ȫ���ռ䣬���ܿ����ľ�����ӵ��Ȩ�޵Ŀռ䡣
+                 请查看权限是否正确，空间->空间目录->全部空间，所能看到的就是您拥有权限的空间。
 
 
-github�û�����yangxiaojing-fxp  520710yxj
+github用户名：yangxiaojing-fxp  520710yxj   123
